@@ -1,0 +1,70 @@
+.formCss {
+
+  margin: auto;
+  }
+li.persons {margin-left: 32px}
+p {margin-left: 32px}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.persInp {height: 70px;
+          border-top: 1px;
+        }
+.lp {padding-left: 32px;}
+.mb {margin-bottom: 30px;}
+th {
+    height: 48px;
+
+    background-color: white;
+    color: #757575;
+
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    border-left:0;
+      font-size: 16px;
+      line-height: 24px;
+      margin: 20px;
+}
+
+
+
+td {height: 48px;
+    color: #505050;
+    background-color: white;
+    font-size: 16px;
+    line-height: 24px;
+    border:24px;
+    margin: 20px;
+    border-bottom: 1px solid #ddd;
+    }
+
+    .header {height: 50px;}
+    div {width: 916px;
+         border: auto;}
+    .color {background-color:#f1f1f1}
+
+    .persInp {border: 0;
+              font-size: 16px;
+             line-height: 24px;
+           }
+
+             table.a {
+                 table-layout: auto;
+                 margin-left: 30px;
+                 width: 850px;
+
+
+             }
+tr {border:16px;
+    height: 40px;
+     }
+img {width: 30px;}
+
+button {height: 80px;
+        padding: 10px;
+        }
+
+input {height: 36px;
+       padding: 2px;}
